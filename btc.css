@@ -1,0 +1,56 @@
+body {
+    background: #fff;
+    font-family: Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    padding-top: 40px;
+}
+
+/*.navbar-brand {
+    background: url(btc.png) no-repeat;
+    margin-top: 10px;
+    overflow: hidden;
+    text-indent: -9999em;
+    width: 140px;
+    height: 30px;
+}*/
+
+#wrap {
+    height: auto !important;
+    height: 100%;
+    padding: 10px 0 100px;
+    margin-bottom: -100px;
+    min-height: 100%;
+}
+
+.page-header {
+    padding-bottom: 9px;
+    margin: 40px 0 20px;
+    border-bottom: 1px solid #eee;
+}
+
+#table-header {
+    background-color: #adadad;
+    padding: 10px;
+    color: #ffffff;
+}
+
+table {
+    font-size: 11px;
+}
+
+.row {
+    padding: 10px;
+}
+
+.row:nth-of-type(odd) {
+    background: #edeaea;
+}
+
+.row:nth-of-type(even) {
+    background: #f7f7f7;
+}
+
+.reload-button {
+    float: right;
+    margin-top: -50px;
+}
